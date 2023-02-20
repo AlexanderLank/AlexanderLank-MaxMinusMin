@@ -25,8 +25,6 @@ public class MaxMinusMin {
             }
 
         }
-        
-        
         return max - min;
 
     }
